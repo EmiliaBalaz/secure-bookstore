@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "DJB2MokTWobAI4gx6xbMwEat/3Emp6m9EQR7SexkKrs=",
+  "Source": "secure-bookstore",
+  "BasePath": "_content/secure-bookstore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
